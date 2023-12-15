@@ -15,4 +15,4 @@
     npm start
 ```
 
-### o console estara o log do servidor
+### nota: No console estara o log do servidor
